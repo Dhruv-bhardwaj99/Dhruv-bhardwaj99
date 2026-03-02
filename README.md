@@ -1,73 +1,54 @@
 <h1 align="center">Hi 👋, I'm Dhruv Bhardwaj</h1>
 <h3 align="center">Full-Stack Software Engineer (MERN) • Web + Mobile • I ship features, not excuses 😄</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+<p align="center">
+  <img alt="Coding" width="420" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruv-bhardwaj99&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-bhardwaj99" />
 </p>
 
-- 🔭 I’m currently building **KindleAI** — a web-based e-reader with **AI help**, **text-to-speech**, and light social features.
+## What I'm working on
+- 🔭 Building **KindleAI** — a web-based e-reader with **AI help**, **text-to-speech**, and light social features.  
   👉 Repo: **KINDLEAI_REPO_LINK** (coming soon)
 
-- 🧠 What KindleAI includes (the fun part):
-  - Upload + manage your EPUB library, read in-browser, save progress/bookmarks/highlights/notes
-  - Hover chatbot that answers based on the book (RAG with **Qdrant** embeddings)
-  - “Listen mode” with Web Speech API + saved playback position
-  - Fast search with **Meilisearch** + clean Docker setup for one-command local run
+- 🧠 KindleAI highlights:
+  - Upload + manage EPUBs, read in-browser, save progress/bookmarks/highlights/notes  
+  - Hover chatbot grounded in the book (RAG + Qdrant)
+  - “Listen mode” (TTS) + saved playback position  
+  - Fast search with Meilisearch + Docker setup
 
-- 🌱 I’m currently working with: **React, Node/Express, Redis, Socket.io, Firebase Auth, Docker, Qdrant, Meilisearch**
+- 🌱 Current stack: **React, Node/Express, Redis, Socket.io, Firebase Auth, Docker, Qdrant, Meilisearch**
 - 👨‍💻 Portfolio: https://dhruv-portfolio-psi.vercel.app/
-
-- 📝 I sometimes write about what I build: https://medium.com/@11dhruv.b
-
-- 💬 Ask me about **MERN, REST APIs, MongoDB, system design basics, and shipping end-to-end features**
-
-- 📫 How to reach me: **11dhruv.b@gmail.com**
-
-- ⚡ Fun fact: **Football (soccer), running, and I’m the guy who fixes “small bugs” that turn into “why is this API slow?”**
+- 📝 Medium: https://medium.com/@11dhruv.b
+- 💬 Ask me about: **MERN, REST APIs, MongoDB, system design basics, shipping end-to-end features**
+- 📫 Email: **11dhruv.b@gmail.com**
+- ⚡ Fun fact: Football (soccer), running, and I’m the guy who fixes “small bugs” that turn into “why is this API slow?”
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- ✅ fixed LinkedIn URL formatting -->
-  <a href="https://www.linkedin.com/in/dhruv-bhardwaj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dhruv_02699" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@11dhruv.b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-</p>
+## Connect with me
+[![Email](https://img.shields.io/badge/Email-11dhruv.b%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:11dhruv.b@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Bhardwaj-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-bhardwaj)
+[![GitHub](https://img.shields.io/badge/GitHub-dhruv--bhardwaj99-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv-bhardwaj99)
+[![Medium](https://img.shields.io/badge/Medium-@11dhruv.b-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@11dhruv.b)
+[![Instagram](https://img.shields.io/badge/Instagram-dhruv__02699-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruv_02699)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-bhardwaj99&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv-bhardwaj99&show_icons=true&locale=en)
-
+## Languages & Tools
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-bhardwaj99&" alt="dhruv-bhardwaj99" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,redis,html,css,git,docker,aws&perline=12" />
 </p>
+
+---
+
+## GitHub Stats
+> If stats ever show broken, it’s usually rate limiting. Refresh later or remove this section.
+
+| Top Languages | GitHub Stats |
+|---|---|
+| ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhruv-bhardwaj99&layout=compact&show_icons=true&cache_seconds=86400) | ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhruv-bhardwaj99&show_icons=true&cache_seconds=86400) |
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhruv-bhardwaj99)
