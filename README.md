@@ -45,7 +45,6 @@
 ---
 
 ## GitHub Stats
-> If stats ever show broken, it’s usually rate limiting. Refresh later or remove this section.
 
 | Top Languages | GitHub Stats |
 |---|---|
