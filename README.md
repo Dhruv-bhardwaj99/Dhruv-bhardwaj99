@@ -65,13 +65,8 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-bhardwaj99&show_icons=true&locale=en&layout=compact" alt="dhruv-bhardwaj99" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv-bhardwaj99&show_icons=true&locale=en" alt="dhruv-bhardwaj99" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-bhardwaj99&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv-bhardwaj99&show_icons=true&locale=en)
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-bhardwaj99&" alt="dhruv-bhardwaj99" />
