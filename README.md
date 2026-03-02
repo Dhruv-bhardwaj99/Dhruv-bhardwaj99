@@ -7,17 +7,16 @@
   <img src="https://komarev.com/ghpvc/?username=dhruv-bhardwaj99&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-bhardwaj99" />
 </p>
 
-- 🔭 I’m currently building **KindleAI** — a web-based e-reader with **AI help**, **text-to-speech**, and light social features. :contentReference[oaicite:3]{index=3}  
+- 🔭 I’m currently building **KindleAI** — a web-based e-reader with **AI help**, **text-to-speech**, and light social features.
   👉 Repo: **KINDLEAI_REPO_LINK** (coming soon)
 
 - 🧠 What KindleAI includes (the fun part):
-  - Upload + manage your EPUB library, read in-browser, save progress/bookmarks/highlights/notes :contentReference[oaicite:4]{index=4}
-  - Hover chatbot that answers based on the book (RAG with **Qdrant** embeddings) :contentReference[oaicite:5]{index=5}
-  - “Listen mode” with Web Speech API + saved playback position :contentReference[oaicite:6]{index=6}
-  - Fast search with **Meilisearch** + clean Docker setup for one-command local run :contentReference[oaicite:7]{index=7}
+  - Upload + manage your EPUB library, read in-browser, save progress/bookmarks/highlights/notes
+  - Hover chatbot that answers based on the book (RAG with **Qdrant** embeddings)
+  - “Listen mode” with Web Speech API + saved playback position
+  - Fast search with **Meilisearch** + clean Docker setup for one-command local run
 
-- 🌱 I’m currently working with: **React, Node/Express, Redis, Socket.io, Firebase Auth, Docker, Qdrant, Meilisearch** :contentReference[oaicite:8]{index=8}
-
+- 🌱 I’m currently working with: **React, Node/Express, Redis, Socket.io, Firebase Auth, Docker, Qdrant, Meilisearch**
 - 👨‍💻 Portfolio: https://dhruv-portfolio-psi.vercel.app/
 
 - 📝 I sometimes write about what I build: https://medium.com/@11dhruv.b
