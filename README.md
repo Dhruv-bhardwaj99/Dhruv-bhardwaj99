@@ -30,9 +30,13 @@
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/Email-11dhruv.b%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:11dhruv.b@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Bhardwaj-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-bhardwaj)
+
 [![GitHub](https://img.shields.io/badge/GitHub-dhruv--bhardwaj99-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv-bhardwaj99)
+
 [![Medium](https://img.shields.io/badge/Medium-@11dhruv.b-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@11dhruv.b)
+
 [![Instagram](https://img.shields.io/badge/Instagram-dhruv__02699-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruv_02699)
 
 ---
@@ -45,9 +49,8 @@
 ---
 
 ## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-bhardwaj99&layout=compact&cache_seconds=86400)
 
-| Top Languages | GitHub Stats |
-|---|---|
-| ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhruv-bhardwaj99&layout=compact&show_icons=true&cache_seconds=86400) | ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhruv-bhardwaj99&show_icons=true&cache_seconds=86400) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv-bhardwaj99&show_icons=true&cache_seconds=86400)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhruv-bhardwaj99)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruv-bhardwaj99)
