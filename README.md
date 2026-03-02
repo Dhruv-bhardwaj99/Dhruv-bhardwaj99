@@ -49,8 +49,5 @@
 ---
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-bhardwaj99&layout=compact&cache_seconds=86400)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv-bhardwaj99&show_icons=true&cache_seconds=86400)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruv-bhardwaj99)
