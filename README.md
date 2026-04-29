@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dhruv Bhardwaj</h1>
 <h3 align="center">Full-Stack Software Engineer (MERN) • Web + Mobile • I ship features, not excuses 😄</h3>
-<p align="center">
-  <img alt="Coding" width="420" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="420">
+      <img alt="Coding" width="420" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
+    </td>
+    <td width="300" valign="middle" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=280&lines=Full-Stack+Engineer+%F0%9F%9A%80;MERN+Stack+%7C+Web+%2B+Mobile;RAG+%7C+TTS+%7C+Docker+%7C+Redis;I+ship+features%2C+not+excuses+%F0%9F%98%84" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruv-bhardwaj99&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-bhardwaj99" />
 </p>
