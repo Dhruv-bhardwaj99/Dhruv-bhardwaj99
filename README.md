@@ -17,7 +17,7 @@
 <h2>What I'm working on</h2>
 <ul>
   <li>🔭 Building <b>KindleAI</b> — a web-based e-reader with <b>AI help</b>, <b>text-to-speech</b>, and light social features.<br/>
-    👉 Repo: <b>KINDLEAI_REPO_LINK</b> (coming soon)
+    👉 Repo: <a href="https://github.com/ARJ2211/KindleAI">https://github.com/ARJ2211/KindleAI</a>
   </li>
   <li>🧠 KindleAI highlights:
     <ul>
