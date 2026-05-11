@@ -89,11 +89,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-bhardwaj99&hide_current_streak=true" alt="Longest Streak & Total Contributions" />
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-bhardwaj99&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhruv-bhardwaj99&margin-w=8&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
