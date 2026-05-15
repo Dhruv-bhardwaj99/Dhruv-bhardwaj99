@@ -6,7 +6,7 @@
       <img alt="Coding" width="420" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" />
     </td>
     <td width="300" valign="middle" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=280&lines=Full-Stack+Engineer+%F0%9F%9A%80;MERN+Stack+%7C+Web+%2B+Mobile;RAG+%7C+TTS+%7C+Docker+%7C+Redis;I+ship+features%2C+not+excuses+%F0%9F%98%84" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=280&lines=Full-Stack+Engineer+%F0%9F%9A%80;MERN+Stack+%7C+Web+%2B+Mobile;RAG+%7C+AI+%7C+Docker+%7C+Redis;I+ship+features%2C+not+excuses+%F0%9F%98%84" alt="Typing SVG" />
     </td>
   </tr>
 </table>
@@ -16,18 +16,19 @@
 
 <h2>What I'm working on</h2>
 <ul>
-  <li>🔭 Building <b>KindleAI</b> — a web-based e-reader with <b>AI help</b>, <b>text-to-speech</b>, and light social features.<br/>
-    👉 Repo: <a href="https://github.com/ARJ2211/KindleAI">https://github.com/ARJ2211/KindleAI</a>
+  <li>🔭 Building <b>TravelJournalAI</b> — a smart travel planning and journaling platform with <b>AI-powered recommendations</b>, <b>real-time collaboration</b>, and interactive travel journals.<br/>
+    👉 Repo: <a href="https://github.com/Dhruv-bhardwaj99/travel-journal-ai">https://github.com/Dhruv-bhardwaj99/travel-journal-ai</a>
   </li>
-  <li>🧠 KindleAI highlights:
+  <li>🧠 TravelJournalAI highlights:
     <ul>
-      <li>Upload + manage EPUBs, read in-browser, save progress/bookmarks/highlights/notes</li>
-      <li>Hover chatbot grounded in the book (RAG + Qdrant)</li>
-      <li>"Listen mode" (TTS) + saved playback position</li>
-      <li>Fast search with Meilisearch + Docker setup</li>
+      <li>Create trips & build day-by-day itineraries with interactive Mapbox maps</li>
+      <li>AI-powered recommendations & itinerary generation (OpenAI + Qdrant semantic search)</li>
+      <li>Real-time collaborative trip planning with Socket.io</li>
+      <li>Travel journal with photo uploads, rich text, and AI-generated blog summaries</li>
+      <li>Offline mode (PWA), social sharing, and smart semantic search across trips</li>
     </ul>
   </li>
-  <li>🌱 Current stack: <b>React, Node/Express, Redis, Socket.io, Firebase Auth, Docker, Qdrant, Meilisearch</b></li>
+  <li>🌱 Current stack: <b>React, Node/Express, MongoDB, Redis, Socket.io, Firebase Auth, Docker, OpenAI, Qdrant, Mapbox GL JS</b></li>
   <li>👨‍💻 Portfolio: <a href="https://dhruv-portfolio-psi.vercel.app/" target="_blank" rel="noopener noreferrer">dhruv-portfolio-psi.vercel.app</a></li>
   <li>📝 Medium: <a href="https://medium.com/@11dhruv.b" target="_blank" rel="noopener noreferrer">medium.com/@11dhruv.b</a></li>
   <li>💬 Ask me about: <b>MERN, REST APIs, MongoDB, system design basics, shipping end-to-end features</b></li>
